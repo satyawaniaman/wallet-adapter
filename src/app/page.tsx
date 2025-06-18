@@ -1,4 +1,3 @@
-"use client";
 import Connect from "@/components/WalletAdapter";
 
 export default function Home() {
